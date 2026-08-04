@@ -43,7 +43,7 @@ replay_pid*
 .project
 
 .settings/
-target/
+target/  
 bin/
 build/
 .settings/
@@ -152,3 +152,6 @@ maven-repository/
 .maven-cache/
 maven-metadata-local.xml
 .maven_repos/
+
+target/
+test-output/
